@@ -1,0 +1,30 @@
+# Personal/private files
+Private/
+Personal/
+Passwords/
+Secrets/
+Credentials/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# Logs
+*.log
+
+# Environment / secret files
+.env
+.env.*
+
+# IDEs / editors
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
